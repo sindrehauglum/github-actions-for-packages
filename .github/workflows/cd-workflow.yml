@@ -1,5 +1,4 @@
 name: Docker CD
-yaml name: Docker CD
 
 on:
   push:
